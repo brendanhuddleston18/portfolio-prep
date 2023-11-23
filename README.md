@@ -8,12 +8,18 @@
 
 ![projectCode](img/201projectCode.png)
 
+![projectCodeTwo](img/201projectCodeTwo.png)
+
 ![projectLive](img/201projectLive.png)
 
-![salmonCode](img/salmonCode.png)
+![salmonCodeOne](img/salmonCode.png)
+
+![salmonCodeTwo](img/salmonCodeTwo.png)
 
 ![salmonLive](img/salmonLive.png)
 
-![duckCode](img/duckCode.png)
+![duckCodeOne](img/duckCode.png)
+
+![duckCodeTwo](img/duckCodeTwo.png)
 
 ![duckLive](img/duckLive.png)
